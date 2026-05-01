@@ -13,9 +13,11 @@ you also need the thingys hosted on https://www.breatharian.eu/hw/picolibsdk/ind
 
 > \>\>\> SD card contents for PicoPadHSTX in RISC-V mode <<<
 
-for my picopad pro the picopad 1 bundle worked
+for my picopad pro the picopad 1 bundle worked, btw i also saved all of these into the archived bundles zip if the page ever goes down
 
 
 then put the .VID files into the VIDEO folder on the SD card
 
 enjoy!
+
+###### psst: you can also use a picopad pro video card for the best experience (on a monitor)
