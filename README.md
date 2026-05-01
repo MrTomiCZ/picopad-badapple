@@ -15,6 +15,10 @@ you also need the thingys hosted on https://www.breatharian.eu/hw/picolibsdk/ind
 
 for my picopad pro the picopad 1 bundle worked, btw i also saved all of these into the archived bundles zip if the page ever goes down
 
+btw, i had to split the files into 7 7z things so you need 7z for this (7zip)
+
+(cause gh filesize limits)
+
 
 then put the .VID files into the VIDEO folder on the SD card
 
