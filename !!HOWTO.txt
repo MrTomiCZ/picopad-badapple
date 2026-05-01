@@ -1,0 +1,20 @@
+mkdir fodar
+cd fodar
+mkdir BMP
+
+ffmpeg -i input.mp4 ^
+-vf "fps=10,scale=160:240:force_original_aspect_ratio=increase,crop=160:240,palettegen" ^
+-frames:v 1 yep_palette.png
+
+ffmpeg -i input.mp4 -i yep_palette.png ^
+-filter_complex "fps=10,scale=160:240:force_original_aspect_ratio=increase,crop=160:240, vflip[x];[x][1:v]paletteuse=dither=bayer" ^
+-start_number 0 BMP/%06d.bmp
+
+ffmpeg -i input.mp4 -ac 1 -ar 22050 -c:a pcm_u8 SOUND.wav
+
+PicoPadVideo.exe
+
+
+
+
+_____----video.vid------_____
