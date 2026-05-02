@@ -26,9 +26,8 @@ enjoy!
 
 ###### psst: you can also use a picopad pro video card for the best experience (on a monitor)
 
+<br><br><br><br>
 
-
-
-if you need help with this reach out to me on discord @mrtomicz
+if you need help with this reach out to me on discord @mrtomicz or like [any other platform](https://guns.lol/mrtomicz)
 
 also if you did this too and want to make an inprovement in this guide or whatever make an issue or a pull request
