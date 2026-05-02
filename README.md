@@ -25,3 +25,10 @@ then put the .VID files into the VIDEO folder on the SD card
 enjoy!
 
 ###### psst: you can also use a picopad pro video card for the best experience (on a monitor)
+
+
+
+
+if you need help with this reach out to me on discord @mrtomicz
+
+also if you did this too and want to make an inprovement in this guide or whatever make an issue or a pull request
